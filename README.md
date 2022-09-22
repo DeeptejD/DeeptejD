@@ -25,11 +25,13 @@
 ### :man_technologist: About Me :
 - I am an aspiring Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Goa, India:palm_tree:
 
-- :man_student: I’m currently studying CSE from Goa College of Engineering.
+- :man_student: I’m currently studying CSE from <a href="http://www.gec.ac.in/">Goa College of Engineering</a>
 
 - :seedling: Exploring JavaScript and Python.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/DeeptejDhauskar)
+
+- :mailbox: Email: deeptejdhauskar2003@gmail.com
 
 ---
 
