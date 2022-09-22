@@ -33,6 +33,8 @@
 
 - :mailbox: Email: deeptejdhauskar2003@gmail.com
 
+<!-- <div align="auto"><img src="https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif" width="400" height="400"></div> -->
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
