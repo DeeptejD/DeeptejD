@@ -48,7 +48,7 @@
 ---
 
    ### 🏆 My Stats :
-   ![Overall Stats](https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&show_icons=true&hide=contribs)
+   ![Overall Stats](https://github-readme-stats.vercel.app/api?username=DeeptejD&count_private=true&show_icons=true&hide=contribs)
    <br>
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeeptejD&theme=dark&background=000000)](https://git.io/streak-stats)
    <br>
