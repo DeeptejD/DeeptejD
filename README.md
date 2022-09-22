@@ -47,7 +47,9 @@
 </div>
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeeptejD&theme=dark&background=000000)](https://git.io/streak-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeeptejD&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+   ### 🏆 My Stats :
+   ![Overall Stats](https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&show_icons=true&hide=contribs)
+   <br>
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeeptejD&theme=dark&background=000000)](https://git.io/streak-stats)
+   <br>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeeptejD&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
