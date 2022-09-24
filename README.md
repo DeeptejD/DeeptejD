@@ -1,6 +1,6 @@
 <div id="header" align="center">
    <div align="center">
-  <img src="https://media.giphy.com/media/mcsPU3SkKrYDdW3aAU/giphy.gif" width="250" height="200"/>
+  <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="280" height="200"/>
 </div>
 </div>
 <div id="badges" align="center">
@@ -21,8 +21,9 @@
 </h1>
  </div>
 ---
-
+<img align="right" width="200" height="300" src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif">
 ### :man_technologist: About Me :
+
 - I am an aspiring Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Goa, India:palm_tree:
 
 - :man_student: I’m currently studying CSE from <a href="http://www.gec.ac.in/">Goa College of Engineering</a>
@@ -47,7 +48,7 @@
 </div>
 ---
 
-   ### 🏆 My Stats :
+   ### My Stats <img src="https://media.giphy.com/media/xUPGcGO8JJLMfEhYis/giphy.gif" width="30px"/>
    ![Overall Stats](https://github-readme-stats.vercel.app/api?username=DeeptejD&count_private=true&show_icons=true&hide=contribs)
    <br>
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeeptejD&theme=dark&background=000000)](https://git.io/streak-stats)
