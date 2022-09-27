@@ -21,7 +21,7 @@
 </h1>
  </div>
 ---
-<img align="right" width="200" height="300" src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif">
+<!-- <img align="right" width="200" height="300" src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif"> -->
 ### :man_technologist: About Me :
 
 - I am an aspiring Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Goa, India:palm_tree:
