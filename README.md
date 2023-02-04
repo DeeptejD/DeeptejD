@@ -53,3 +53,5 @@
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeeptejD&theme=dark&background=000000)](https://git.io/streak-stats)
    <br>
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeeptejD&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+   ## 🐦 Catch me on Twitter!
+[![](https://gtce.itsvg.in/api?username=AstroDeeptej)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
