@@ -1,57 +1,24 @@
-<div id="header" align="center">
-   <div align="center">
-  <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="280" height="235"/>
-</div>
-</div>
-<div id="badges" align="center">
-  <a href="https://linkedin.com/in/DeeptejDhauskar">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/AstroDeeptej">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DeeptejD&style=flat-square&color=blue" alt=""/>
-</div>
-<div align="center">
-  <h1>
-  hey there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
- </div>
-<!-- <img align="right" width="200" height="300" src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif"> -->
-<h2>:man_technologist: About Me :</h2>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-- I am an aspiring Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Goa, India:palm_tree:
+## hi there! i like to code and make cool stuff 🪄 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-- :man_student: I’m currently studying CSE from <a href="http://www.gec.ac.in/">Goa College of Engineering</a>
+## 💫 About Me:
+🎓 A Computer Science Undergrad from Goa<br>🔭 I’m currently exploring front-end developement <br>👯 Love to work in teams and collaborate<br>🤝 I’m looking for help with front end development<br>🌱 I’m currently learning bootstrap and react
 
-- :seedling: Exploring JavaScript and Python.
+## 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/DeeptejDhauskar)
+<img align='right' src='https://octodex.github.com/images/NUX_Octodex.gif' with='auto'>
 
-- :mailbox: Email: deeptejdhauskar2003@gmail.com
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DeeptejD&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DeeptejD&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeeptejD&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- <div align="auto"><img src="https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif" width="400" height="400"></div> -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DeeptejD&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
----
-
-   ### My Stats <img src="https://media.giphy.com/media/xUPGcGO8JJLMfEhYis/giphy.gif" width="30px"/>
-   ![Overall Stats](https://github-readme-stats.vercel.app/api?username=DeeptejD&count_private=true&show_icons=true&hide=contribs)
-   <br>
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeeptejD&theme=dark&background=000000)](https://git.io/streak-stats)
-   <br>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeeptejD&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-   ## 🐦 Catch me on Twitter!
+## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=AstroDeeptej)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/DeeptejD) 
