@@ -1,11 +1,14 @@
-## hi there! i like to code and make cool stuff 🪄 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+<img align='left' src='https://user-images.githubusercontent.com/88930014/217003832-be8d20b6-1cb7-48af-82d3-f5e4aa4bebf1.png' width='100'>
+
+# there! I like to code and make cool stuff 🪄 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 ## 💫 About Me:
-🎓 A Computer Science Undergrad from Goa<br>🔭 I’m currently exploring front-end developement <br>👯 Love to work in teams and collaborate<br>🤝 I’m looking for help with front end development<br>🌱 I’m currently learning bootstrap and react
+🎓 A Computer Science Undergrad from Goa<br>🔭 I’m currently exploring front-end developement <br>👯 Love to work in teams and collaborate<br>🤝 I’m looking for help with back-end developement<br>🌱 I’m currently learning bootstrap and react
 
-## 💻 Tech Stack:
+## 💻 My Tech Stack:
 
 <img align='right' src='https://user-images.githubusercontent.com/88930014/216980544-989701d4-b90a-4f8a-be9b-58f35a98acad.gif' width='200'>
 
@@ -17,24 +20,34 @@
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+<div align="center">
 
-## 📊 GitHub Stats:
+## 📊 Here's the part where I flex
 
 ![](https://github-readme-stats.vercel.app/api?username=DeeptejD&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DeeptejD&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeeptejD&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-
-## 🏆 GitHub Trophies
+## 🏆 Trophies!
 ![](https://github-profile-trophy.vercel.app/?username=DeeptejD&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-
-<img align='right' src='https://user-images.githubusercontent.com/88930014/216987658-a9eebbdc-df5a-41dd-bcbd-f823165b39f7.gif' width='280'>
 <br>
-
+  
+## 🐦 Catch me on Twitter!
 [![](https://gtce.itsvg.in/api?username=AstroDeeptej)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-## 💰 You can help me by Donating
+
+  
+
+## ☕ Starbucks is too expensive, you could buy me tea instead :)
+
+
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/DeeptejD) 
+
+<img align='center' src='https://user-images.githubusercontent.com/88930014/217005616-d1c9e13b-1441-410f-9ec9-3b046974801f.gif' width='90'>
+  
+###### you've reached so far! don't forget to drop a follow :)
+  
+<img align='center' src='https://user-images.githubusercontent.com/88930014/217011820-202f12d0-3cc2-49d2-b703-d81b0059f759.png' width='30'>
+
+</div>
