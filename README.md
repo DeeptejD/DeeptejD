@@ -18,7 +18,9 @@
 🎓 A Computer Science Undergrad from Goa<br>🔭 I’m currently exploring front-end developement <br>👯 Love to work in teams and collaborate<br>🤝 I’m looking for help with back-end developement<br>🌱 I’m currently learning bootstrap and react
 
 <img align='left' src='https://user-images.githubusercontent.com/88930014/217207687-418ebc32-7a29-4041-89d8-80afaa996a1f.gif' width='250'>
-<br> <br>
+<br> 
+
+<br>
 
 <img align='right' src='https://user-images.githubusercontent.com/88930014/216980544-989701d4-b90a-4f8a-be9b-58f35a98acad.gif' width='200'>
 
