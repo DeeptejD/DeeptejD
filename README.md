@@ -25,7 +25,7 @@
 ![sponsor banner](https://user-images.githubusercontent.com/88930014/217163371-3f1d7519-b477-409c-8ace-27a1eb6996fb.png)
 
   
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/<DeeptejD>)
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/DeeptejD)
   
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/DeeptejD?style=for-the-badge)
   
