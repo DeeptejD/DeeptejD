@@ -1,6 +1,6 @@
 <img align='left' src='https://user-images.githubusercontent.com/88930014/217212632-88a24a2e-1b89-4505-b67c-967284f7794d.gif' width='120'>
 
-# I like to code and make cool stuff 🪄 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+# I like to code and make cool stuff 🪄 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 <br>
 
