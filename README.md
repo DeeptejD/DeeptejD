@@ -1,4 +1,4 @@
-<img align='left' src='https://user-images.githubusercontent.com/88930014/217003832-be8d20b6-1cb7-48af-82d3-f5e4aa4bebf1.png' width='100'>
+<img align='left' src='https://user-images.githubusercontent.com/88930014/217157762-fdd400d4-21b4-401b-8326-decb0316b8ab.gif' width='100'>
 
 # I like to code and make cool stuff 🪄 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
@@ -41,7 +41,8 @@
 
 ## ☕ Starbucks is too expensive, you could buy me tea instead :)
 
-
+  
+  
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/DeeptejD) 
 
 <img align='center' src='https://user-images.githubusercontent.com/88930014/217005616-d1c9e13b-1441-410f-9ec9-3b046974801f.gif' width='90'>
