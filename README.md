@@ -1,14 +1,18 @@
-<img align='left' src='https://user-images.githubusercontent.com/88930014/217157762-fdd400d4-21b4-401b-8326-decb0316b8ab.gif' width='100'>
+<img align='left' src='https://user-images.githubusercontent.com/88930014/217212632-88a24a2e-1b89-4505-b67c-967284f7794d.gif' width='120'>
 
 # I like to code and make cool stuff 🪄 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
+<br>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-## 💫 About Me:
-🎓 A Computer Science Undergrad from Goa<br>🔭 I’m currently exploring front-end developement <br>👯 Love to work in teams and collaborate<br>🤝 I’m looking for help with back-end developement<br>🌱 I’m currently learning bootstrap and react
+<img align='left' src='https://user-images.githubusercontent.com/88930014/217205811-bc2367ac-3eac-41f8-b319-871b3bc9474f.gif' width='150'>
+<br> <br>
 
-## 💻 My Tech Stack:
+<br> 🎓 A Computer Science Undergrad from Goa<br>🔭 I’m currently exploring front-end developement <br>👯 Love to work in teams and collaborate<br>🤝 I’m looking for help with back-end developement<br>🌱 I’m currently learning bootstrap and react
+
+<img align='left' src='https://user-images.githubusercontent.com/88930014/217207687-418ebc32-7a29-4041-89d8-80afaa996a1f.gif' width='250'>
+<br> <br>
 
 <img align='right' src='https://user-images.githubusercontent.com/88930014/216980544-989701d4-b90a-4f8a-be9b-58f35a98acad.gif' width='200'>
 
@@ -22,14 +26,13 @@
 
 <div align="center">
 
-![sponsor banner](https://user-images.githubusercontent.com/88930014/217163371-3f1d7519-b477-409c-8ace-27a1eb6996fb.png)
+![cropped support](https://user-images.githubusercontent.com/88930014/217211030-c1cdb66c-702b-4e84-9d2d-715130651b8c.gif)
 
-  
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/DeeptejD)
   
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/DeeptejD?style=for-the-badge)
   
-## 📊 My Github Stats!
+<img src='https://user-images.githubusercontent.com/88930014/217213152-52bc7bad-caef-450f-b730-35176b342a93.gif' width='250'>
 
 ![](https://github-readme-stats.vercel.app/api?username=DeeptejD&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DeeptejD&theme=merko&hide_border=true)<br/>
