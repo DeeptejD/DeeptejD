@@ -1,6 +1,6 @@
 <img align='left' src='https://user-images.githubusercontent.com/88930014/217157762-fdd400d4-21b4-401b-8326-decb0316b8ab.gif' width='100'>
 
-# I like to code and make cool stuff 🪄 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+# I like to code and make cool stuff <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
