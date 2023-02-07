@@ -1,6 +1,6 @@
 <img align='left' src='https://user-images.githubusercontent.com/88930014/217157762-fdd400d4-21b4-401b-8326-decb0316b8ab.gif' width='100'>
 
-# I like to code and make cool stuff <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+# I like to code and make cool stuff 🪄 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
@@ -22,13 +22,20 @@
 
 <div align="center">
 
-## 📊 Here's the part where I flex
+![sponsor banner](https://user-images.githubusercontent.com/88930014/217163371-3f1d7519-b477-409c-8ace-27a1eb6996fb.png)
+
+  
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/<DeeptejD>)
+  
+![GitHub Sponsors](https://img.shields.io/github/sponsors/DeeptejD?style=for-the-badge)
+  
+## 📊 My Github Stats!
 
 ![](https://github-readme-stats.vercel.app/api?username=DeeptejD&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DeeptejD&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeeptejD&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-
+  
 ## 🏆 Trophies!
 ![](https://github-profile-trophy.vercel.app/?username=DeeptejD&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
@@ -40,7 +47,6 @@
   
 
 ## ☕ Starbucks is too expensive, you could buy me tea instead :)
-
   
   
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/DeeptejD) 
