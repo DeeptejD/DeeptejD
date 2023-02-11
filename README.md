@@ -41,10 +41,13 @@
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/DeeptejD?style=for-the-badge)
   
 <img src='https://user-images.githubusercontent.com/88930014/217213152-52bc7bad-caef-450f-b730-35176b342a93.gif' width='250'>
+  
+  <div align="center">
+  
+  ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeeptejD&theme=github_dark)
+  ![Top Languages on GitHub](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeeptejD&theme=github_dark)
 
-![](https://github-readme-stats.vercel.app/api?username=DeeptejD&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DeeptejD&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeeptejD&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div>
 
   
 ## 🏆 Trophies!
