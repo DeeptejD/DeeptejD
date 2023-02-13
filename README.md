@@ -50,11 +50,6 @@
 <div>
 
   
-## 🏆 Trophies!
-![](https://github-profile-trophy.vercel.app/?username=DeeptejD&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-<br>
-  
 ## 🐦 Catch me on Twitter!
 [![](https://gtce.itsvg.in/api?username=AstroDeeptej)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
