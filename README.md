@@ -48,9 +48,10 @@
 
 <div>
 
+[![An image of @deeptejj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deeptejj)](https://holopin.io/@deeptejj)
   
-## 🐦 Catch me on Twitter!
-[![](https://gtce.itsvg.in/api?username=AstroDeeptej)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<!-- ## 🐦 Catch me on Twitter!
+[![](https://gtce.itsvg.in/api?username=AstroDeeptej)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 
   
 
