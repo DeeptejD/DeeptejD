@@ -1,7 +1,6 @@
 <img align='left' src='https://user-images.githubusercontent.com/88930014/217212632-88a24a2e-1b89-4505-b67c-967284f7794d.gif' width='120'>
 
-# I like to code and make cool stuff 🪄 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-
+# I like to code and make cool stuff 🪄
 <br>
 
 <img align='left' src='https://user-images.githubusercontent.com/88930014/217205811-bc2367ac-3eac-41f8-b319-871b3bc9474f.gif' width='150'>
