@@ -54,10 +54,7 @@
 [![](https://gtce.itsvg.in/api?username=AstroDeeptej)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 
   
-
-## ☕ Starbucks is too expensive, you could buy me tea instead :)
-  
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/DeeptejD)
+  [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/DeeptejD)
   
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/DeeptejD) 
 
