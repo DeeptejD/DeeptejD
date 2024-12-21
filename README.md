@@ -11,7 +11,7 @@
   👯 Love to work in teams and collaborate  
 
 
-  [![tech stack, trust me bro](https://readme-typing-svg.demolab.com?font=Doto&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=my+tech+stack!;'kinda'+%3A\))](https://git.io/typing-svg)
+  [![trust me bro](https://readme-typing-svg.demolab.com?font=Doto&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=my+tech+stack!;'kinda'+%3D%5D)](https://git.io/typing-svg)
 
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
