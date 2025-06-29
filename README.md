@@ -1,8 +1,14 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=50&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi!;Hola!;Hallo!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=50&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi!;Hola!;Hallo!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81" />
+  <picture style="display: block;">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=50&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&lines=Hi!;Hola!;Hallo!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81"/>
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=50&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=Hi!;Hola!;Hallo!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81"
+      style="width: 100%; display: block;"
+      alt="Typing animation"/>
   </picture>
+
 
   <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200">
 
