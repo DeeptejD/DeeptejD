@@ -1,18 +1,23 @@
 <div align="center">
-
-  [![hola](https://readme-typing-svg.demolab.com?font=Doto&size=50&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=hi!;hola!;hallo!)](https://git.io/typing-svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=50&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi!;Hola!;Hallo!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=50&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi!;Hola!;Hallo!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81" />
+  </picture>
 
   <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200">
 
   <br>
 
   🎓 A Computer Science Undergrad from Goa  
-  🔭 I’m currently exploring Android development using Flutter  
+  🔭 I’m currently exploring Backend Development  
   👯 Love to work in teams and collaborate  
 
 
-  [![trust me bro](https://readme-typing-svg.demolab.com?font=Doto&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=my+tech+stack!;'kinda'+%3D%5D)](https://git.io/typing-svg)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Tech+Stack!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=30&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Tech+Stack!" />
+  </picture>
+  
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
   ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
@@ -27,15 +32,33 @@
 
 <div align="center">
 
-  [![stats for nerds](https://readme-typing-svg.demolab.com?font=Doto&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=stats+for+nerds)](https://git.io/typing-svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Stats!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=30&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Stats!" />
+  </picture>
 
-  ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeeptejD&theme=github_dark)
-  ![Top Languages on GitHub](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeeptejD&theme=github_dark)
+<div align="center">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeeptejD&theme=github_dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeeptejD&theme=nord_bright" />
+  </picture>
 
-  [![badgesss!!!](https://readme-typing-svg.demolab.com?font=Doto&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=badgesss!!!)](https://git.io/typing-svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeeptejD&theme=github_dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeeptejD&theme=nord_bright" />
+  </picture>
+</div>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Badgess!!!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=30&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Badgess!!!" />
+  </picture>
 
   [![holopinsss](https://holopin.me/deeptejj)](https://holopin.io/@deeptejj)
 
-  [![adios](https://readme-typing-svg.demolab.com?font=Doto&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%3D%5D)](https://git.io/typing-svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=%3D%5D" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=30&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=%3D%5D" />
+  </picture>
 
 </div>
