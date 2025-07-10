@@ -64,7 +64,7 @@
 
   <br/>
 
-  [![email](https://img.shields.io/badge/Email-333333?logo=gmail&logoColor=white)](mailto:deeptejdhauskar2003@gmail.com) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/deeptejdhauskar)
+  [![email](https://img.shields.io/badge/Email-333333?style=plastic&logo=gmail&logoColor=white)](mailto:deeptejdhauskar2003@gmail.com) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/deeptejdhauskar)
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=%3D%5D" />
