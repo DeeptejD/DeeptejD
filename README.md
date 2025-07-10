@@ -21,7 +21,7 @@
 🛠️ I’m currently developing Android applications using Flutter and learning Backend development.  
   
 **📦 Latest Projects:**
-- [*Rosto Radar*](https://github.com/QuickAxe/RADCM/) An automated road anomaly detection and mapping system that user smartphone sensors to automatically detect and display anomalies. I primarily focused on developing the Flutter applications for this project.
+- [*Rosto Radar*](https://github.com/QuickAxe/RADCM/): An automated road anomaly detection and mapping system that user smartphone sensors to automatically detect and display anomalies like potholes. I primarily focused on developing the Flutter applications for this project.
 - [*ClassFetch*](https://github.com/DeeptejD/ClassFetch): A browser extension that allows bulk downloading files from Google Classroom.
 
 
