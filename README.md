@@ -8,46 +8,46 @@
       style="width: 100%; display: block;"
       alt="Typing animation"/>
   </picture>
-
-
-  <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200">
-
-  <br>
-
-  🎓 A Computer Science Undergrad from Goa  
-  🔭 I’m currently exploring Backend Development  
-  👯 Love to work in teams and collaborate  
-
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Tech+Stack!" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=30&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Tech+Stack!" />
-  </picture>
-  
-  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 </div>
 
-<div align="center">
+<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200">
 
+👋🏻 Hey, I am ***Deeptej Dhauskar***
+
+[![email](https://img.shields.io/badge/Email-333333?logo=gmail&logoColor=white)](mailto:deeptejdhauskar2003@gmail.com) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/deeptejdhauskar)
+
+🎓 A *CS Engineering Undergrad* with hands-on experience in Mobile development using Flutter and Jetpack Compose and Backend development using NodeJS.  
+
+🛠️ I’m currently developing Android applications using Flutter and learning Backend development.  
+  
+**📦 Latest Projects:**
+- [*Rosto Radar*](https://github.com/QuickAxe/RADCM/) An automated road anomaly detection and mapping system that user smartphone sensors to automatically detect and display anomalies. I primarily focused on developing the Flutter applications for this project.
+- [*ClassFetch*](https://github.com/DeeptejD/ClassFetch): A browser extension that allows bulk downloading files from Google Classroom.
+
+
+<div align="center">
+  <!-- Technologies I've worked with -->
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Technologies+I've+worked+with" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=30&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Technologies+I've+worked+with" />
+  </picture>
+
+<!-- badges -->
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-42D2FD?style=plastic&logo=flutter&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=plastic&logo=tailwind-css&logoColor=38B2AC) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?&style=plastic&logo=kotlin&logoColor=white) ![JUnit5](https://img.shields.io/badge/junit5-25A162?&style=plastic&logo=junit5&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+
+  <!-- Stats
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Stats!" />
     <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=30&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Stats!" />
   </picture>
+  -->
 
-<div align="center">
+  <div align="center">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeeptejD&theme=github_dark" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeeptejD&theme=nord_bright" />
-  </picture>
+      <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeeptejD&theme=github_dark" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeeptejD&theme=nord_bright" />
+    </picture>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeeptejD&theme=github_dark" />
@@ -55,12 +55,17 @@
   </picture>
 </div>
 
+  <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Badgess!!!" />
     <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=30&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Badgess!!!" />
   </picture>
 
   [![holopinsss](https://holopin.me/deeptejj)](https://holopin.io/@deeptejj)
+
+  <br/>
+
+  [![email](https://img.shields.io/badge/Email-333333?logo=gmail&logoColor=white)](mailto:deeptejdhauskar2003@gmail.com) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/deeptejdhauskar)
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=%3D%5D" />
