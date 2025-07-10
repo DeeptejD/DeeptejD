@@ -14,7 +14,7 @@
 
 👋🏻 Hey, I am ***Deeptej Dhauskar***
 
-[![email](https://img.shields.io/badge/Email-333333?logo=gmail&logoColor=white)](mailto:deeptejdhauskar2003@gmail.com) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/deeptejdhauskar)
+[![email](https://img.shields.io/badge/Email-333333?style=plastic&logo=gmail&logoColor=white)](mailto:deeptejdhauskar2003@gmail.com) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/deeptejdhauskar)
 
 🎓 A *CS Engineering Undergrad* <img src="https://github.com/user-attachments/assets/65ecfc66-5acf-4164-ae6a-b788056282a9" alt="rubber-duck-debugging" width="30" valign="middle" /> with hands-on experience in Mobile app development using Flutter and Jetpack Compose and Backend development using NodeJS.  
 
@@ -22,7 +22,7 @@
   
 **📦 Latest Projects:**
 - [*Rosto Radar*](https://github.com/QuickAxe/RADCM/): An automated road anomaly detection and mapping system that user smartphone sensors to automatically detect and display anomalies like <img src="https://github.com/user-attachments/assets/e8ae0b15-9722-45d2-9989-90e7cde1307d" alt="pothole" width="30" valign="middle" /> potholes. I primarily focused on developing the Flutter applications for this project.
-- [*ClassFetch*](https://github.com/DeeptejD/ClassFetch): A browser extension that allows bulk downloading files <img src="https://github.com/user-attachments/assets/a2fbce42-7ca0-46ca-a15c-7b29754cf6ff" alt="files" width="30" valign="middle" /> from Google Classroom.
+- [*ClassFetch*](https://github.com/DeeptejD/ClassFetch): A browser extension that allows bulk downloading files from Google Classroom.
 
 <div align="center">
   <!-- Technologies I've worked with -->
