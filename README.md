@@ -16,7 +16,7 @@
 
 [![email](https://img.shields.io/badge/Email-333333?style=plastic&logo=gmail&logoColor=white)](mailto:deeptejdhauskar2003@gmail.com) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/deeptejdhauskar)
 
-🎓 A *CS Engineering Undergrad* <img src="https://github.com/user-attachments/assets/65ecfc66-5acf-4164-ae6a-b788056282a9" alt="rubber-duck-debugging" width="30" valign="middle" /> with hands-on experience in Mobile app development using Flutter and Jetpack Compose and Backend development using NodeJS.  
+🎓 A *CS Engineering Undergrad* <a href="https://en.wikipedia.org/wiki/Rubber_duck_debugging" target="_blank"><img src="https://github.com/user-attachments/assets/65ecfc66-5acf-4164-ae6a-b788056282a9" alt="rubber-duck-debugging" width="30" valign="middle" /></a> with hands-on experience in Mobile app development using Flutter and Jetpack Compose and Backend development using NodeJS.  
 
 🛠️ I’m currently developing Android applications using Flutter and learning Backend development.  
   
