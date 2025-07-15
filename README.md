@@ -16,13 +16,13 @@
 
 [![email](https://img.shields.io/badge/Email-333333?style=plastic&logo=gmail&logoColor=white)](mailto:deeptejdhauskar2003@gmail.com) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/deeptejdhauskar)
 
-🎓 A *CS Engineering Undergrad* <a href="https://en.wikipedia.org/wiki/Rubber_duck_debugging" target="_blank"><img src="https://github.com/user-attachments/assets/65ecfc66-5acf-4164-ae6a-b788056282a9" alt="rubber-duck-debugging" width="30" valign="middle" /></a> with hands-on experience in Mobile app development using Flutter and Jetpack Compose and Backend development using NodeJS.  
+🎓 A *CS Engineering Undergrad* <a href="https://en.wikipedia.org/wiki/Rubber_duck_debugging" target="_blank"><img src="https://github.com/user-attachments/assets/65ecfc66-5acf-4164-ae6a-b788056282a9" alt="rubber-duck-debugging" width="30" valign="middle" /></a> with hands-on experience in Mobile app development using Flutter and Jetpack Compose and Backend development using Express.js and MongoDB in Node.js.  
 
-🛠️ I’m currently developing Android applications using Flutter and learning Backend development.  
+🛠️ I’m currently developing Android applications using Flutter and learning Full Stack Development.  
   
 **📦 Latest Projects:**
 - [*Rosto Radar*](https://github.com/QuickAxe/RADCM/): An automated road anomaly detection and mapping system that user smartphone sensors to automatically detect and display anomalies like <img src="https://github.com/user-attachments/assets/e8ae0b15-9722-45d2-9989-90e7cde1307d" alt="pothole" width="30" valign="middle" /> potholes. I primarily focused on developing the Flutter applications for this project.
-- [*ClassFetch*](https://github.com/DeeptejD/ClassFetch): A browser extension that allows bulk downloading files from Google Classroom.
+- [*ClassFetch*](https://github.com/DeeptejD/ClassFetch): A browser extension that allows bulk downloading files from Google Classroom. Available as a [*GitHub Release*](https://github.com/deeptejd/classfetch/releases/latest) and on the [*Edge Add-on store*](https://microsoftedge.microsoft.com/addons/detail/classfetch/ffmompjmgnnleondhldhdmekfcbjjnii). 
 
 <div align="center">
   <!-- Technologies I've worked with -->
@@ -33,7 +33,7 @@
   </picture>
 
 <!-- badges -->
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)](https://github.com/DeeptejD/JPEG-Decoder) [![Flutter](https://img.shields.io/badge/Flutter-42D2FD?style=plastic&logo=flutter&logoColor=white)](https://github.com/QuickAxe/RADCM/releases) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=plastic&logo=tailwind-css&logoColor=38B2AC) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?&style=plastic&logo=kotlin&logoColor=white) ![JUnit5](https://img.shields.io/badge/junit5-25A162?&style=plastic&logo=junit5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)](https://github.com/DeeptejD/JPEG-Decoder) [![Flutter](https://img.shields.io/badge/Flutter-42D2FD?style=plastic&logo=flutter&logoColor=white)](https://github.com/QuickAxe/RADCM/releases) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-grey?style=plastic&logo=tailwind-css&logoColor=38B2AC) ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?&style=plastic&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?&style=plastic&logo=jetpackcompose&logoColor=white) ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?&style=plastic&logo=junit5&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 
   <!-- Stats
   <picture>
@@ -56,7 +56,7 @@
 
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Badgess!!!" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Badgess!" />
     <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=30&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Badgess!!!" />
   </picture>
 
