@@ -22,6 +22,7 @@
   
 **📦 Latest Projects:**
 - [*Rosto Radar*](https://github.com/QuickAxe/RADCM/): An automated road anomaly detection and mapping system that user smartphone sensors to automatically detect and display anomalies like <img src="https://github.com/user-attachments/assets/e8ae0b15-9722-45d2-9989-90e7cde1307d" alt="pothole" width="30" valign="middle" /> potholes. I primarily focused on developing the Flutter applications for this project.
+- [*CosmoDex*](https://github.com/DeeptejD/data-hackfest): CosmoDex is an interactive web application that combines real-time _NASA Near Earth Object (NEO)_ data with Gemini-powered storytelling to create an educational and gamified space learning experience, [*Winner of the best UI/UX Project @ MLH Data Hackfest*](https://devpost.com/software/cosmodex).
 - [*ClassFetch*](https://github.com/DeeptejD/ClassFetch): A browser extension that allows bulk downloading files from Google Classroom. Available as a [*GitHub Release*](https://github.com/deeptejd/classfetch/releases/latest) and on the [*Edge Add-on store*](https://microsoftedge.microsoft.com/addons/detail/classfetch/ffmompjmgnnleondhldhdmekfcbjjnii). 
 
 <div align="center">
